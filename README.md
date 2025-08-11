@@ -1,17 +1,6 @@
-# oasisinfobytetask1
-Iris flower classification project is a great way to provide information and instructions to users and collaborators.
+The Iris Flower Classification project is a simple yet powerful machine learning application that predicts the species of an iris flower — Setosa, Versicolor, or Virginica — based on four key features: sepal length, sepal width, petal length, and petal width. Using the classic Iris dataset from the scikit-learn library, which contains 150 balanced samples (50 from each species), this project walks through the complete ML workflow — from data exploration and visualisation to model training and evaluation.
 
-Iris Flower Classification Project
-Iris Flowers
+Data preprocessing and analysis were performed using Pandas and NumPy, while Matplotlib and Seaborn were used to create insightful visualisations such as pair plots, distribution graphs, and correlation heatmaps. Various classification algorithms, including Logistic Regression, Decision Tree, and K-Nearest Neighbours, were tested, with the best-performing model achieving an impressive 95–98% accuracy. Model performance was assessed using metrics like accuracy score, confusion matrix, and classification report.
 
-This project aims to classify different species of Iris flowers using data analytics techniques.
+This project is a great demonstration of supervised machine learning and serves as an ideal starting point for beginners in data science and predictive modelling. It not only showcases how to handle and visualise data but also how to train, evaluate, and deploy a predictive model for real-world use.
 
-Table of Contents
-Introduction
-Dataset
-
-Introduction
-In this project, we apply data analytics techniques to classify the Iris flower species. The classification is based on several features such as sepal length, sepal width, petal length, and petal width.
-
-Dataset
-The dataset used in this project is the famous Iris dataset. It contains measurements of 150 Iris flowers from three different species: setosa, versicolor, and virginica.
